@@ -214,4 +214,4 @@ Calligra is offered as a complete free version with all features and updates inc
 Unlock your productivity potential today! **Download Calligra for free and start creating amazing documents effortlessly!**
 
 ---
-**Last updated:** 2026-09-21 05:41:24 UTC
+**Last updated:** 2026-09-21 11:30:40 UTC
